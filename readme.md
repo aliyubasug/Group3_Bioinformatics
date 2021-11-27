@@ -10,17 +10,17 @@ date: "27/11/2021"
 output: html_document
 # ANA4315 INTRODUCTION TO INFORMATION TECHNOLOGY AND BIOINFORMATICS 
 
-Assignment By Group3 Members
+##Assignment By Group3 Members
 
-Assignment the assignment is colaboratively done by the group members 
+##Assignment the assignment is colaboratively done by the group members 
 
 ![](C:\Users\ALIYU\Desktop\Bio Assig/myself.jpg)
 
-Aliyu Adamu Ahmad 
-BASUG/UG/BHS/ANA/18/050
-Email address:aliyuahmadadam96@gmail.com
-Slack user : @Aliyu  A Ahmad
-Github ID:  Aliyubasug
+###Aliyu Adamu Ahmad 
+###BASUG/UG/BHS/ANA/18/050
+###Email address:aliyuahmadadam96@gmail.com
+###Slack user : @Aliyu  A Ahmad
+###Github ID:  Aliyubasug
 
 
 
