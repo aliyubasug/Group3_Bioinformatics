@@ -1,3 +1,30 @@
+# INREODUCTION TO BIOINFORMATICS TEST (BY GROUP3 MEMBERS)
+
+
+## GROUP INFORMATION
+This is a group of 15 members of Human Anatomy Department, 400l. The group collaboratively work together Under The Leadership of *Aliyu Adamu Ahmad*in order to achieve the work success. The group Members use Diffrent types (7) of Programming Language to develop their script.
+
+## NAME OF GROUP MEMBERS 
+Aliyu Adamu Ahmad  
+Nasiru Abdullahi 
+Okasha Ibrahim Bako  
+Abdulrahman Lawal Khalil 
+Zakariyya Umar 
+Suraja Ibrahim  
+Abdu Haladu  
+Aliyu Muhammad  
+
+
+
+
+
+
+
+
+
+
+
+
 ## TABLE
 | GROUP MEMBERS | PROGRAMMING LANGUAGE USED  |
 | ------------- | ------------- |
@@ -18,6 +45,10 @@
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
 
+## WORKFLOW
+![WORKFLOW](https://user-images.githubusercontent.com/95003138/143778153-a7f2090d-9017-4d46-9a33-33a37951fb6c.jpg)
+
+## PICTURES OF THE GROUP MEMBERS
 
 ![Aliyu Adamu Ahmad](https://user-images.githubusercontent.com/95003138/143777930-530cea61-c757-4db6-a660-3fe070f49c64.jpeg)
 
@@ -60,5 +91,4 @@ Aliyu Muhammad
 ![apolmi](https://user-images.githubusercontent.com/95003138/143777946-85462a40-8f9e-4881-8e46-75b52cc51a1a.jpg)
 Apolmi Yohanna
 
-## WORKFLOW
-![WORKFLOW](https://user-images.githubusercontent.com/95003138/143778153-a7f2090d-9017-4d46-9a33-33a37951fb6c.jpg)
+
