@@ -15,6 +15,12 @@ Suraja Ibrahim
 Abdu Haladu  
 Aliyu Muhammad  
 Yushau Amina Muhammad
+Nusaiba Abubakar said 
+Abdullahi Dahiru
+Apolmi Yohanna
+Ibrahim Bello
+Abdurrashid Idris
+Jibril Abdullahi Uba
 
 ## TABLE
 
@@ -31,10 +37,10 @@ Yushau Amina Muhammad
 | Yushau Amina Muhammad  | C++  |
 | Nusaiba Abubakar said | Java  |
 | Abdullahi Dahiru  | Java  |
-| Content Cell  | Css  |
-| Content Cell  | Css  |
-| Content Cell  | MatLab  |
-| Content Cell  | MatLab  |
+| Apolmi Yohanna  | Css  |
+| Ibrahim Bello  | Css  |
+| Abdurrashid Idris  | MatLab  |
+| Jibril Abdullahi Uba  | MatLab  |
 
 ## WORKFLOW
 
