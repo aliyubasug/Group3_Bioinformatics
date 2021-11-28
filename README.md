@@ -2,3 +2,4 @@
 [GROUP3.csv](https://github.com/aliyubasug/Group3_Bioinformatics/files/7613891/GROUP3.csv)
 [Group3 workflow.pdf](https://github.com/aliyubasug/Group3_Bioinformatics/files/7613893/Group3.workflow.pdf[,1:2])
 
+![1Major](https://user-images.githubusercontent.com/95003138/143777152-f9188790-c15e-432f-a5ba-ec12084f8c62.jpeg)
