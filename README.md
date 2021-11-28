@@ -1,5 +1,7 @@
 ![myself](https://user-images.githubusercontent.com/95003138/143777930-530cea61-c757-4db6-a660-3fe070f49c64.jpeg)
 
+Aliyu Adamu Ahmad
+
 ![Drr](https://user-images.githubusercontent.com/95003138/143777925-0546ed8f-32a8-4afc-8dd3-a7b6064690cf.jpg)
 ![idris](https://user-images.githubusercontent.com/95003138/143777926-264f7fc9-8df2-47ef-b528-851f1d170116.jpg)
 ![lk](https://user-images.githubusercontent.com/95003138/143777927-2ee3641b-ebca-4c20-b968-ae691b77a846.jpg)
