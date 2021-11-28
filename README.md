@@ -1,5 +1,6 @@
-# INREODUCTION TO BIOINFORMATICS TEST (BY GROUP3 MEMBERS)
+# INRODUCTION TO BIOINFORMATICS TEST (BY GROUP3 MEMBERS)
 
+## GROUP NAME: **Group 3**
 
 ## GROUP INFORMATION
 This is a group of 15 members of Human Anatomy Department, 400l. The group collaboratively work together Under The Leadership of *Aliyu Adamu Ahmad*in order to achieve the work success. The group Members use Diffrent types (7) of Programming Language to develop their script.
@@ -91,4 +92,6 @@ Aliyu Muhammad
 ![apolmi](https://user-images.githubusercontent.com/95003138/143777946-85462a40-8f9e-4881-8e46-75b52cc51a1a.jpg)
 Apolmi Yohanna
 
+##HELP
 
+##
