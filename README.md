@@ -47,7 +47,13 @@ Aliyu Muhammad
 | Content Cell  | Content Cell  |
 
 ## WORKFLOW
+
 ![WORKFLOW](https://user-images.githubusercontent.com/95003138/143778153-a7f2090d-9017-4d46-9a33-33a37951fb6c.jpg)
+
+## HELP
+
+## ACKNOWLEDGEMENT
+First and foremost i will like to thank Almighty God for the success of this assignment, I will also thank the course lecturer in person of Dr. Umar Ahmad, for the opportunity giving to us to learn By given us this assignment, I will Acknowledge Group7 and group5  leaders in person of Umar muhammad for the knowledge and idea shared, I thank the group members for their maximum cooperation towards the success of the test.
 
 ## PICTURES OF THE GROUP MEMBERS
 
@@ -72,7 +78,7 @@ Yushau Amina Muhammad
 Nusaiba Abubakar said
 
 ![okasha Ibrahim Bako](https://user-images.githubusercontent.com/95003138/143777935-527dedc9-56ce-4598-bbc3-8d7c16ef8da0.jpg)
-okasha Ibrahim Bako
+Okasha Ibrahim Bako
 
 ![Abdullahi Jubril Uba](https://user-images.githubusercontent.com/95003138/143777937-a10c79fc-c96a-4999-99f2-0ead6e3387e5.jpg)
 Abdullahi Jubril Uba
