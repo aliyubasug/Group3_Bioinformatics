@@ -14,19 +14,10 @@ Zakariyya Umar
 Suraja Ibrahim  
 Abdu Haladu  
 Aliyu Muhammad  
-
-
-
-
-
-
-
-
-
-
-
+Yushau Amina Muhammad
 
 ## TABLE
+
 | GROUP MEMBERS | PROGRAMMING LANGUAGE USED  |
 | ------------- | ------------- |
 | Aliyu Adamu Ahmad  | Bash Script  |
@@ -38,8 +29,8 @@ Aliyu Muhammad
 | Abdu Haladu  | Phyton  |
 | Aliyu Muhammad  | C++  |
 | Yushau Amina Muhammad  | C++  |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| Nusaiba Abubakar said | Java  |
+| Abdullahi Dahiru  | Java  |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
@@ -58,7 +49,7 @@ First and foremost i will like to thank Almighty God for the success of this ass
 ## PICTURES OF THE GROUP MEMBERS
 
 ![Aliyu Adamu Ahmad](https://user-images.githubusercontent.com/95003138/143777930-530cea61-c757-4db6-a660-3fe070f49c64.jpeg)
-
+Aliyu Adamu Ahmad
 ![Nasiru Abdullahi](https://user-images.githubusercontent.com/95003138/143777928-5591fd22-95e8-4822-a24b-5a29cde60942.jpg)
 Nasiru Abdullahi
 
@@ -98,8 +89,4 @@ Aliyu Muhammad
 ![apolmi](https://user-images.githubusercontent.com/95003138/143777946-85462a40-8f9e-4881-8e46-75b52cc51a1a.jpg)
 Apolmi Yohanna
 
-## HELP
-
-## ACKNOWLEDGEMENT
-First and foremost i will like to thank Almighty God for the success of this assignment, I will also thank the course lecturer in person of Dr. Umar Ahmad, for the opportunity giving to us to learn By given us this assignment, I will Acknowledge Group7 and group5  leaders in person of Umar muhammad for the knowledge and idea shared, I thank the group members for their maximum cooperation towards the success of the test.
 
