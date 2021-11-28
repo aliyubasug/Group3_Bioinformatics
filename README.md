@@ -46,7 +46,7 @@ okasha Ibrahim Bako
 Abdullahi Jubril Uba
 
 ![zakariyya Umar ](https://user-images.githubusercontent.com/95003138/143777940-44b6e510-6bbb-404d-9a7f-80cd8c540742.jpg)
-[zakariyya Umar 
+zakariyya Umar 
 
 ![Abdu Haladu](https://user-images.githubusercontent.com/95003138/143777941-04481da5-7681-45c3-8403-937bc61b8b5e.jpg)
 Abdu Haladu
