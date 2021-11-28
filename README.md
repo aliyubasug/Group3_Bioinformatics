@@ -31,11 +31,10 @@ Yushau Amina Muhammad
 | Yushau Amina Muhammad  | C++  |
 | Nusaiba Abubakar said | Java  |
 | Abdullahi Dahiru  | Java  |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| Content Cell  | Css  |
+| Content Cell  | Css  |
+| Content Cell  | MatLab  |
+| Content Cell  | MatLab  |
 
 ## WORKFLOW
 
