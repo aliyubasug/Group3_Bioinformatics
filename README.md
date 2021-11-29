@@ -35,12 +35,12 @@ Jibril Abdullahi Uba
 | Abdu Haladu  | Phyton  |
 | Aliyu Muhammad  | C++  |
 | Yushau Amina Muhammad  | C++  |
-| Nusaiba Abubakar said | Java  |
-| Abdullahi Dahiru  | Java  |
-| Apolmi Yohanna  | Css  |
-| Ibrahim Bello  | Css  |
-| Abdurrashid Idris  | MatLab  |
-| Jibril Abdullahi Uba  | MatLab  |
+| Nusaiba Abubakar said | Javascript  |
+| Abdullahi Dahiru  | Javascript  |
+| Apolmi Yohanna  | C++  |
+| Ibrahim Bello  | C  |
+| Abdurrashid Idris  | PHP  |
+| Jibril Abdullahi Uba  | Java  |
 
 ## WORKFLOW
 
