@@ -58,11 +58,9 @@ First and foremost i will like to thank Almighty God for the success of this ass
 
 __Aliyu Adamu Ahmad__
 
-SLACK ID: @Aliyu_A_Ahmad
-
 ![Major](https://user-images.githubusercontent.com/95003138/143967889-23d1304d-666e-4063-b094-125d47e679ac.jpg)
 
-Nasiru Abdullahi
+__Nasiru Abdullahi__
 
 ![Dr](https://user-images.githubusercontent.com/95003138/143967974-8a66cfb2-6731-4284-b2c9-5d09aa4cbe81.jpg)
 
