@@ -8,19 +8,19 @@ This is a group of 15 members of Human Anatomy Department, 400l. The group colla
 ## NAME OF GROUP MEMBERS 
 - Aliyu Adamu Ahmad  
 - Nasiru Abdullahi 
-Okasha Ibrahim Bako  
-Abdulrahman Lawal Khalil 
-Zakariyya Umar 
-Suraja Ibrahim  
-Abdu Haladu  
-Aliyu Muhammad  
-Yushau Amina Muhammad
-Nusaiba Abubakar said 
-Abdullahi Dahiru
-Apolmi Yohanna
-Ibrahim Bello
-Abdurrashid Idris
-Jibril Abdullahi Uba
+- Okasha Ibrahim Bako  
+- Abdulrahman Lawal Khalil 
+- Zakariyya Umar 
+- Suraja Ibrahim  
+- Abdu Haladu  
+- Aliyu Muhammad  
+- Yushau Amina Muhammad
+- Nusaiba Abubakar said 
+- Abdullahi Dahiru
+- Apolmi Yohanna
+- Ibrahim Bello
+- Abdurrashid Idris
+- Jibril Abdullahi Uba
 
 ## TABLE
 
