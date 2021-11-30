@@ -53,22 +53,22 @@ First and foremost i will like to thank Almighty God for the success of this ass
 
 ## PICTURES OF THE GROUP MEMBERS
 
-![Aliyu Adamu Ahmad](https://user-images.githubusercontent.com/95003138/143777930-530cea61-c757-4db6-a660-3fe070f49c64.jpeg)
+![myself](https://user-images.githubusercontent.com/95003138/143967683-26f75bd6-2dc1-48c7-b071-5b2fc93d65bb.jpeg)
 Aliyu Adamu Ahmad
 
-![Nasiru Abdullahi](https://user-images.githubusercontent.com/95003138/143777928-5591fd22-95e8-4822-a24b-5a29cde60942.jpg)
+![Major](https://user-images.githubusercontent.com/95003138/143967889-23d1304d-666e-4063-b094-125d47e679ac.jpg)
 Nasiru Abdullahi
 
-![Bello Ibrahim](https://user-images.githubusercontent.com/95003138/143777925-0546ed8f-32a8-4afc-8dd3-a7b6064690cf.jpg)
+![Dr](https://user-images.githubusercontent.com/95003138/143967974-8a66cfb2-6731-4284-b2c9-5d09aa4cbe81.jpg)
 Bello Ibrahim
 
-![idris Abdurrashid](https://user-images.githubusercontent.com/95003138/143777926-264f7fc9-8df2-47ef-b528-851f1d170116.jpg)
+![idris](https://user-images.githubusercontent.com/95003138/143968054-35fe92d0-3376-46cb-a83c-8d6658890910.jpg)
 idris Abdurrashid
 
-![Abdulrahman Lawal khalil](https://user-images.githubusercontent.com/95003138/143777927-2ee3641b-ebca-4c20-b968-ae691b77a846.jpg)
+![lk](https://user-images.githubusercontent.com/95003138/143968213-b6b6b734-ca1c-4c52-bd41-cc2c3eeb5330.jpg)
 Abdulrahman Lawal khalil
 
-![Yushau Amina Muhammad](https://user-images.githubusercontent.com/95003138/143777929-e0340815-6263-4123-b629-8bc2a17a2398.jpg)
+
 Yushau Amina Muhammad
 
 ![Nusaiba Abubakar said](https://user-images.githubusercontent.com/95003138/143777933-d32141be-fff9-4682-9574-b25b54ba2ddf.jpg)
