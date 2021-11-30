@@ -47,7 +47,7 @@ This is a group of 15 members of Human Anatomy Department, 400l. The group colla
 ![WORKFLOW](https://user-images.githubusercontent.com/95003138/143778153-a7f2090d-9017-4d46-9a33-33a37951fb6c.jpg)
 
 ## HELP
-The Work is done Using the lecture Notes shared by the course lecturer, Youtube videos and sharing of ideas from other group members
+The Work is done Using the lecture Notes shared by the course lecturer, Youtube videos and sharing of ideas from other group leaders.
 
 ## ACKNOWLEDGEMENT
 First and foremost i will like to thank Almighty God for the success of this assignment, I will also thank the course lecturer in person of Dr. Umar Ahmad, for the opportunity giving to us to learn By given us this assignment, I will Acknowledge Group7 and group5  leaders in person of Umar muhammad for the knowledge and idea shared, I thank the group members for their maximum cooperation towards the success of the test.
