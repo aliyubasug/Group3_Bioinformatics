@@ -6,21 +6,21 @@
 This is a group of 15 members of Human Anatomy Department, 400l. The group collaboratively work together Under The Leadership of *Aliyu Adamu Ahmad*in order to achieve the work success. The group Members use Diffrent types (7) of Programming Language to develop their script.
 
 ## NAME OF GROUP MEMBERS 
-- Aliyu Adamu Ahmad  
-- Nasiru Abdullahi 
-- Okasha Ibrahim Bako  
-- Abdulrahman Lawal Khalil 
-- Zakariyya Umar 
-- Suraja Ibrahim  
-- Abdu Haladu  
-- Aliyu Muhammad  
-- Yushau Amina Muhammad
-- Nusaiba Abubakar said 
-- Abdullahi Dahiru
-- Apolmi Yohanna
-- Ibrahim Bello
-- Abdurrashid Idris
-- Jibril Abdullahi Uba
+1. Aliyu Adamu Ahmad  
+2. Nasiru Abdullahi 
+3. Okasha Ibrahim Bako  
+4. Abdulrahman Lawal Khalil 
+5. Zakariyya Umar 
+6. Suraja Ibrahim  
+7. Abdu Haladu  
+8. Aliyu Muhammad  
+9. Yushau Amina Muhammad
+10. Nusaiba Abubakar said 
+11. Abdullahi Dahiru
+12. Apolmi Yohanna
+13. Ibrahim Bello
+14. Abdurrashid Idris
+15. Jibril Abdullahi Uba
 
 ## TABLE
 
