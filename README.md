@@ -44,7 +44,7 @@ This is a group of 15 members of Human Anatomy Department, 400l. The group colla
 
 ## WORKFLOW
 
-![WORKFLOW](https://user-images.githubusercontent.com/95003138/143778153-a7f2090d-9017-4d46-9a33-33a37951fb6c.jpg)
+![](https://user-images.githubusercontent.com/95003138/143778153-a7f2090d-9017-4d46-9a33-33a37951fb6c.jpg)
 
 ## HELP
 The Work is done Using the lecture Notes shared by the course lecturer, Youtube videos and sharing of ideas from other group leaders.
