@@ -56,11 +56,11 @@ First and foremost i will like to thank Almighty God for the success of this ass
 
 ![myself](https://user-images.githubusercontent.com/95003138/143967683-26f75bd6-2dc1-48c7-b071-5b2fc93d65bb.jpeg)
 
-Aliyu Adamu Ahmad
+__ __Aliyu Adamu Ahmad
 
 ![Major](https://user-images.githubusercontent.com/95003138/143967889-23d1304d-666e-4063-b094-125d47e679ac.jpg)
 
-Nasiru Abdullahi
+__ __Nasiru Abdullahi
 
 ![Dr](https://user-images.githubusercontent.com/95003138/143967974-8a66cfb2-6731-4284-b2c9-5d09aa4cbe81.jpg)
 
