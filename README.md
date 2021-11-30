@@ -24,8 +24,6 @@ This is a group of 15 members of Human Anatomy Department, 400l. The group colla
 14. Abdurrashid Idris
 15. Jibril Abdullahi Uba
 
-## TABLE
-
 | GROUP MEMBERS | PROGRAMMING LANGUAGE USED  |
 | ------------- | ------------- |
 | Aliyu Adamu Ahmad  | Bash Script  |
