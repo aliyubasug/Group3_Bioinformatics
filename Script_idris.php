@@ -3,7 +3,7 @@
 <?php 
 
 $_name = 'Idris  Abdurrashid';
-$_Slack_id = '@idris_Abdurrashid';
+$_Slack_id = '@idris.Abdurrashid';
 $_email = 'Idrisabdurrashid9@gmail.com';
 $_areaofinterest = 'System Biology';
 
