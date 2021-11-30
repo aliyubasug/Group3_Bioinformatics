@@ -93,16 +93,20 @@ Abdullahi Jubril Uba
 
 zakariyya Umar 
 
-![Abdu Haladu](https://user-images.githubusercontent.com/95003138/143777941-04481da5-7681-45c3-8403-937bc61b8b5e.jpg)
+![abdu](https://user-images.githubusercontent.com/95003138/143969181-5e16e47c-274a-44f8-810e-5f08eeb3a2f9.jpg)
+
 Abdu Haladu
 
-![Abdullahi Dahiru](https://user-images.githubusercontent.com/95003138/143777942-50d05843-4284-423a-83ac-f170c5389e83.jpg)
+![Abdullahi](https://user-images.githubusercontent.com/95003138/143969281-0edad203-3506-4429-9ee8-815e2160d54c.jpg)
+
 Abdullahi Dahiru
 
-![Ali](https://user-images.githubusercontent.com/95003138/143777943-65b2aeef-3927-42b4-882d-88993425c01a.jpg)
+![Ali ](https://user-images.githubusercontent.com/95003138/143969349-99ed67e2-3a0b-4622-acee-f0c3b84bf464.jpg)
+
 Aliyu Muhammad
 
-![apolmi](https://user-images.githubusercontent.com/95003138/143777946-85462a40-8f9e-4881-8e46-75b52cc51a1a.jpg)
+![apolmi](https://user-images.githubusercontent.com/95003138/143969452-181462f6-87d9-49cb-8f31-76d74ec974d8.jpg)
+
 Apolmi Yohanna
 
 
