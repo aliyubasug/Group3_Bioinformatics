@@ -3,7 +3,7 @@
 ## GROUP NAME: **Group 3**
 
 ## GROUP INFORMATION
-This is a group of 15 members of Human Anatomy Department, 400l. The group collaboratively work together Under The Leadership of *Aliyu Adamu Ahmad*in order to achieve the work success. The group Members use Diffrent types (7) of Programming Language to develop their script.
+This is a group of 15 students of Human Anatomy Department, Bauchi state University Gadau. The group collaboratively work together Under The Leadership of *Aliyu Adamu Ahmad*in order to develop a scripts using different types of programming language (R, Phyton, Java, JavaScript, C, C++ etc.
 
 ## NAME OF GROUP MEMBERS 
 1. Aliyu Adamu Ahmad  
