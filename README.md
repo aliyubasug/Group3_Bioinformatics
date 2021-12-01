@@ -10,7 +10,7 @@ This is a group of 15 students of Human Anatomy Department, Bauchi state Univers
 2. Nasiru Abdullahi 
 3. Okasha Ibrahim Bako  
 4. Abdulrahman Lawal Khalil 
-5. Zakariyya Umar 
+5. Zakariyya M Umar 
 6. Suraja Ibrahim  
 7. Abdu Haladu  
 8. Aliyu Muhammad  
@@ -28,7 +28,7 @@ This is a group of 15 students of Human Anatomy Department, Bauchi state Univers
 | Nasiru Abdullahi  | Bash Script  |
 | Okasha Ibrahim Bako  | Bash Script  |
 | Abdulrahman Lawal Khalil  | R  |
-| Zakariyya Umar  | R  |
+| Zakariyya M Umar  | R  |
 | Suraja Ibrahim  | Phyton  |
 | Abdu Haladu  | Phyton  |
 | Aliyu Muhammad  | C++  |
@@ -38,7 +38,7 @@ This is a group of 15 students of Human Anatomy Department, Bauchi state Univers
 | Apolmi Yohanna  | C++  |
 | Ibrahim Bello  | C  |
 | Abdurrashid Idris  | PHP  |
-| Jibril Abdullahi Uba  | Java  |
+| Jibrin Abdullahi Uba  | Java  |
 
 ## WORKFLOW
 
