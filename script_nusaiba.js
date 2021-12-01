@@ -1,5 +1,9 @@
-alert('Name: Nusaiba Abubakar');
-alert('Email: nusaibaabubakarsaid049@gmail.com');
-alert('Area of interest: system biology');
-alert('Github: @nusaiba3013');
-alert('Slack ID: @nusaiba.a.said');
+#!/usr/bin/env python3
+
+Name = "Nusaiba Abubakar"
+Email = "nusaibaabubakarsaid049@gmail.com"
+Area of interest = "system biology"
+Slack ID = "@nusaiba_a_said"
+Print ("{},{},{},{},".format(name, Email, Github,))
+
+personal_details()
