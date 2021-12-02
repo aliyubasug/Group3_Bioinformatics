@@ -1,7 +1,7 @@
-#!/bin/bash
-#NAME: Aliyu Adamu Ahmad
-#EMAIL: aliyuahmadadam96@gmail.com
-#SLACK USER: @Aliyu_A_Ahmad
-#AREA OF INTREST: Proteomics
+#!/bin/env bash
+Echo "Aliyu Adamu Ahmad"
+Echo "aliyuahmadadam96@gmail.com"
+Echo "@Aliyu_A_Ahmad"
+Echo "INTREST: Proteomics"
 
 #END
