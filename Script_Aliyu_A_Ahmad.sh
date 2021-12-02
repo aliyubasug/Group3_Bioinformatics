@@ -1,7 +1,4 @@
 #!/bin/env bash
-Echo "Aliyu Adamu Ahmad"
-Echo "aliyuahmadadam96@gmail.com"
-Echo "@Aliyu_A_Ahmad"
-Echo "INTREST: Proteomics"
+Echo "Aliyu Adamu Ahmad, aliyuahmadadam96@gmail.com, @Aliyu_A_Ahmad", Proteomics"
 
 #END
