@@ -1,11 +1,5 @@
-#!/usr/local/bin/Rscript
+#!/usr/bin/env bash
 
+Echo "Abdulrahman Khalil,marpheed@gmail.com,bioinformatic,bioinformatic,@abdulrahmanlkhalil"
 
-name<- c('Abdulrahman Khalil')
-email<- c('marpheed@gmail.com')
-# AREA OF INTEREST 
-bioinformatic<- ('genomics')
-bioinformatic
-# SLACK ID
-slack<- c('@abdulrahmanlkhalil')
 # RSCRIPT
