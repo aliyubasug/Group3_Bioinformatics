@@ -1,4 +1,4 @@
-#!/usr/bin/R
+#!/usr/local/R
 
 Echo "Abdulrahman Khalil,marpheed@gmail.com,bioinformatic,bioinformatic,@abdulrahmanlkhalil"
 
