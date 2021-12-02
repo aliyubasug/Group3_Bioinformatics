@@ -1,9 +1,7 @@
-#!/usr/bin/env python3
+#!/usr/bin/env Bash
 
-Name = "Nusaiba Abubakar"
-Email = "nusaibaabubakarsaid049@gmail.com"
-Area of interest = "system biology"
-Slack ID = "@nusaiba_a_said"
-Print ("{},{},{},{},".format(name, Email, Github,))
+Echo "Nusaiba Abubakar,nusaibaabubakarsaid049@gmail.com, system biology,@nusaiba_a_said"
+Print ("{},{},{},{},".format(name, Email, Github"
 
-personal_details()
+
+#personal_details()
