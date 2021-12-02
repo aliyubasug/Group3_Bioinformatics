@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/usr/bin/R
 
 Echo "Abdulrahman Khalil,marpheed@gmail.com,bioinformatic,bioinformatic,@abdulrahmanlkhalil"
 
