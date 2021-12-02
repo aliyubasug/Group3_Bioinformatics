@@ -8,6 +8,7 @@ This is a group of 15 students of Human Anatomy Department, Bauchi state Univers
 
 ## About the course 
 
+Bioinformatics, as a new emerging discipline, combines mathematics, information science, and biology and helps answer biological questions. Bioinformatics has also been referred to as computational biology. However, strictly speaking, computational biology deals mainly with modeling of biological systems. The main components of bioinformatics are the development of software tools and algorithms and  the analysis and interpretation of biological data by using a variety of software tools and particular algorithms.
 
 
 ## Name of group members
