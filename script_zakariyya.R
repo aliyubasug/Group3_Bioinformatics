@@ -1,21 +1,6 @@
-getwd()
+#!/usr/bin/env bash
 
-# NAME
-name<- c('Zakariyya M Umar')
-print(name)
+Echo "Zakariyya M Umar,mumarzakariyya@gmail.com,@zakariyyamumar,bioinformatics"
 
-# EMAIL ADDRESS
-email<- c('mumarzakariyya@gmail.com')
-print(email)
-
-# SLACK USERNAME
-slack<- c('@zakariyyamumar')
-print(slack)
-
-# BIOINFORMATIC AREA OF INTEREST
-bioinformatic('genomic')
-print(bioinformatic)
-
-# DATA FRAME
-rscript<- data.frame(name, email, slack, bioinformatic)
+# DATA FRAME rscript<- data.frame(name, email, slack, bioinformatic)
 rscript
