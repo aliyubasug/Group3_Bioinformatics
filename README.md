@@ -38,7 +38,7 @@ This is a group of 15 students of Human Anatomy Department, Bauchi state Univers
 | Nusaiba Abubakar said | Javascript  |
 | Abdullahi Dahiru  | Javascript  |
 | Apolmi Yohanna  | C++  |
-| Ibrahim Bello  | Ruby  |
+| Ibrahim Bello  | PHP  |
 | Abdurrashid Idris  | PHP  |
 | Jibrin Abdullahi Uba  | Java  |
 
