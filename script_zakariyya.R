@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/usr/local/R
 
 Echo "Zakariyya M Umar,mumarzakariyya@gmail.com,@zakariyyamumar,bioinformatics"
 
