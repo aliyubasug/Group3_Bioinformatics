@@ -6,7 +6,7 @@ git clone https://github.com/aliyubasug/Group3_Bioinformatics.git
 
 # im changing my working directory 
 
-cd ./Group3_Bioinformatics.git
+cd ./Group3_Bioinformatics
 
 #Im now asking to generate a csv file 
 
