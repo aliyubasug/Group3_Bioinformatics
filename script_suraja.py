@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/usr/local/bin/Phython3
 
 Echo "suraja Ibrahim,Suraja Ibrahim,surajaibbrahim724@gmail.com,genomics"
 
