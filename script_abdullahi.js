@@ -1,5 +1,5 @@
-alert('Name: abdullahi Dahiru');
-alert('Email: dahiruabdullahi0082@gmail.com');
-alert('Area of interest: Genomics');
-alert('Github: @abdullahi0082');
-alert('Slack ID: @abdullahidahiru');
+#!/usr/bin/env bash
+
+Echo "abdullahi Dahiru,dahiruabdullahi0082@gmail.com,Genomics,@abdullahi0082,@abdullahidahiru"
+
+#javascript
