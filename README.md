@@ -3,7 +3,12 @@
 ## GROUP NAME: **Group 3**
 
 ## Group Information 
+
 This is a group of 15 students of Human Anatomy Department, Bauchi state University Gadau. The group collaboratively work together Under The Leadership of *Aliyu Adamu Ahmad* in order to develop a scripts using different types of programming language (R, Phyton, Java, JavaScript, C, C++ etc.Then a bash script is generated that clones this repository git repository
+
+## About the course 
+
+
 
 ## Name of group members
 1. Aliyu Adamu Ahmad  
